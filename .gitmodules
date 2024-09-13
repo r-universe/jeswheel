@@ -5,3 +5,6 @@
 [submodule "arima2"]
 	path = arima2
 	url = https://github.com/jeswheel/arima2
+[submodule "panelPomp"]
+	path = panelPomp
+	url = https://github.com/jeswheel/panelpomp
